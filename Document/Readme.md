@@ -9,7 +9,7 @@ This folder contains all the official documentation and reports related to the *
 - **Project Report.docx** – Report formatted for academic or institutional submission.
 - **Project Report.pdf** – PDF version of the report for official submission or review.
 
----
+----
 
 All documents are meant for academic, development, and presentation purposes only.  
 For the source code and technical implementation, refer to the `Code/` folder.
